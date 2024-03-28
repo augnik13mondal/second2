@@ -8,5 +8,4 @@ ptr=&a;
 printf("%d",a);
 return 0;
 }}
-{a=12
-}
+int a=12;
