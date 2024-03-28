@@ -1,6 +1,6 @@
 #include<stdio.h>
 {{
-int min()
+int main()
 int a=5;
 int *ptr; 
 ptr=&a;
@@ -8,3 +8,4 @@ ptr=&a;
 printf("%d",a);
 return 0;
 }}
+a=20;
