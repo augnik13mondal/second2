@@ -8,4 +8,3 @@ ptr=&a;
 printf("%d",a);
 return 0;
 }}
-a=20;
